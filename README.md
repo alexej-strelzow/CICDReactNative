@@ -2,7 +2,7 @@
 InflationCalc
 
 ## iOS
-[![Build status](https://build.appcenter.ms/v0.1/apps/e00002b0-bae2-4871-b541-716e986d3a21/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/74c0de49-01fb-485d-85ad-55bb9ffb43d4/branches/dev/badge)](https://appcenter.ms)
 
 ## Android
-[![Build status](https://build.appcenter.ms/v0.1/apps/5f999d70-7a07-4887-b2d6-bf7afecc9aaa/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/2effa735-4c3f-4262-ac64-8843e2c9f895/branches/dev/badge)](https://appcenter.ms)
